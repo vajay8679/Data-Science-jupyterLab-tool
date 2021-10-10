@@ -21,3 +21,8 @@ https://dataplatform.cloud.ibm.com/canvas/streams/asset/93aab025-504d-4d05-8bc4-
 Data Refinery
 
 https://dataplatform.cloud.ibm.com/jobs/6855c8ac-256e-4c91-a437-209443ae58b6?project_id=c1b8f2db-148c-4e32-bde8-eaf1396c3c60&context=cpdaas&userfs=false
+
+
+final Assesment
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/0a774172-4e30-449b-a019-26ef551f7dca/view?access_token=eb39cbf81eff3301b6fbbf0a547b75e3c147dead5fc75aa98c7fdc2976d81b87
